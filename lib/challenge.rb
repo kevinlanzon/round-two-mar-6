@@ -5,7 +5,6 @@ class Mixer
   end
 
   def find_word(word)
-
   end
 
 end
